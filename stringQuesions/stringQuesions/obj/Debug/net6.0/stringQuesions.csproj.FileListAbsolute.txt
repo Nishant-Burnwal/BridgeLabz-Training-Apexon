@@ -1,0 +1,14 @@
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\stringQuesions.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\stringQuesions.AssemblyInfoInputs.cache
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\stringQuesions.AssemblyInfo.cs
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\stringQuesions.csproj.CoreCompileInputs.cache
+E:\.net projects\stringQuesions\stringQuesions\bin\Debug\net6.0\stringQuesions.exe
+E:\.net projects\stringQuesions\stringQuesions\bin\Debug\net6.0\stringQuesions.deps.json
+E:\.net projects\stringQuesions\stringQuesions\bin\Debug\net6.0\stringQuesions.runtimeconfig.json
+E:\.net projects\stringQuesions\stringQuesions\bin\Debug\net6.0\stringQuesions.dll
+E:\.net projects\stringQuesions\stringQuesions\bin\Debug\net6.0\stringQuesions.pdb
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\stringQuesions.dll
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\refint\stringQuesions.dll
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\stringQuesions.pdb
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\stringQuesions.genruntimeconfig.cache
+E:\.net projects\stringQuesions\stringQuesions\obj\Debug\net6.0\ref\stringQuesions.dll

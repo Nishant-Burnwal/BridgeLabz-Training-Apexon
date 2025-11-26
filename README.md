@@ -6,3 +6,8 @@
 Added Code for Compiletime and Runtime Polymorphism.
 Code for Abstraction.
 Basics of Inheritance.
+# Types of Inhetitance
+1. Sigle
+2. Multilevel
+3. Hierarchical
+4. Hybrid

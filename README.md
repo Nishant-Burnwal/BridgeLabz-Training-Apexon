@@ -11,3 +11,10 @@ Basics of Inheritance.
 3. Multilevel
 4. Hierarchical
 5. Hybrid
+6. 27/11/2025
+7. # Strings Concepts
+   1. String Basics
+   2. Different ways of Creating Strings
+   3. String Array
+   4. String Methods
+   5. String Operations

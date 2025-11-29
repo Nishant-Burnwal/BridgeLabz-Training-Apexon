@@ -20,3 +20,9 @@ Basics of Inheritance.
    3. String Array
    4. String Methods
    5. String Operations
+
+28/11/2025
+# Array Concepts in C#
+
+29/11/2025
+# ArrayList using System.Collections

@@ -23,6 +23,12 @@ Basics of Inheritance.
 
 28/11/2025
 # Array Concepts in C#
+1. Basic Concets
+2. Ways to iterate Arrays
 
 29/11/2025
 # ArrayList using System.Collections
+1. Add Elemets
+2. Remove Elemets
+3. Ways to iterate elements
+4. Some Properties of ArrayLsit

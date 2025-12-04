@@ -42,17 +42,17 @@ Basics of Inheritance.
 # Generic Collections
 1. List
 2. Tuple
-3. Dictionary
+3. Dictionary<key, Value>
 4. HashSet
 5. LinkedList
-6. SortedDictionary
-7. SortedSet
-8. Stack
-9. Queue
+6. SortedDictionary<k, v>
+7. SortedSet - unique sorted elemints
+8. Stack<T>
+9. Queue<T>
 
 # Non-Generic
 1. ArrayList
 2. HashTable
-3. QueueNonGenerics
-4. StackNonGenerics
+3. Queue
+4. Stack
 5. SortedList

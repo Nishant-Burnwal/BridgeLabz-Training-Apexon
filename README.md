@@ -32,3 +32,27 @@ Basics of Inheritance.
 2. Remove Elemets
 3. Ways to iterate elements
 4. Some Properties of ArrayLsit
+
+02/12/2025
+# Getting Started With Collection
+1. Generic
+2. Non-Generic
+
+03/12/2025
+# Generic Collections
+1. List
+2. Tuple
+3. Dictionary
+4. HashSet
+5. LinkedList
+6. SortedDictionary
+7. SortedSet
+8. Stack
+9. Queue
+
+# Non-Generic
+1. ArrayList
+2. HashTable
+3. QueueNonGenerics
+4. StackNonGenerics
+5. SortedList

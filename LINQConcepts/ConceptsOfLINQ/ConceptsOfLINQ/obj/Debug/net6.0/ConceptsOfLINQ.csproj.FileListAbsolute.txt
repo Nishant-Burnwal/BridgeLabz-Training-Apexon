@@ -1,0 +1,15 @@
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\bin\Debug\net6.0\ConceptsOfLINQ.exe
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\bin\Debug\net6.0\ConceptsOfLINQ.deps.json
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\bin\Debug\net6.0\ConceptsOfLINQ.runtimeconfig.json
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\bin\Debug\net6.0\ConceptsOfLINQ.dll
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\bin\Debug\net6.0\ConceptsOfLINQ.pdb
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.AssemblyInfoInputs.cache
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.AssemblyInfo.cs
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.csproj.CoreCompileInputs.cache
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.sourcelink.json
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.dll
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\refint\ConceptsOfLINQ.dll
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.pdb
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ConceptsOfLINQ.genruntimeconfig.cache
+E:\.net projects\LINQConcepts\ConceptsOfLINQ\ConceptsOfLINQ\obj\Debug\net6.0\ref\ConceptsOfLINQ.dll

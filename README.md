@@ -56,3 +56,32 @@ Basics of Inheritance.
 3. Queue
 4. Stack
 5. SortedList
+
+04/12/25
+# Lambda Expresssion
+Got familiar with Lambda Expression
+
+05/12/25
+# Started LINQ Concetps
+1. Select
+2. Where
+
+06/12/25
+# Read more Concepts of LINQ
+
+07/12/25
+# Revise Some LINQ Advanced Concepts
+1. Where(Filter)
+2. Select(Projetion)
+3. OrderBy
+4. First/ FirstOrDefault
+5. Single/ SingleOrDefault
+6. Take/ Skip -> Pagination
+7. Any/ All
+8. Aggregate Functions
+9. Distinct
+10. GroupBy
+11. Join
+12. ToList(), ToArray()
+
+

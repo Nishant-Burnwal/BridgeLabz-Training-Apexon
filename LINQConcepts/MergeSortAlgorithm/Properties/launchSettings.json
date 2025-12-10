@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MergeSortAlgorithm": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\bin\Debug\net6.0\MergeSortAlgorithm.exe
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\bin\Debug\net6.0\MergeSortAlgorithm.deps.json
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\bin\Debug\net6.0\MergeSortAlgorithm.runtimeconfig.json
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\bin\Debug\net6.0\MergeSortAlgorithm.dll
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\bin\Debug\net6.0\MergeSortAlgorithm.pdb
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.AssemblyInfoInputs.cache
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.AssemblyInfo.cs
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.csproj.CoreCompileInputs.cache
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.sourcelink.json
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.dll
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\refint\MergeSortAlgorithm.dll
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.pdb
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\MergeSortAlgorithm.genruntimeconfig.cache
+E:\.net projects\LINQConcepts\MergeSortAlgorithm\obj\Debug\net6.0\ref\MergeSortAlgorithm.dll

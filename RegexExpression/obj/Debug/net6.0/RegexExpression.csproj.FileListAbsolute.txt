@@ -1,0 +1,15 @@
+E:\.net projects\RegexExpression\bin\Debug\net6.0\RegexExpression.exe
+E:\.net projects\RegexExpression\bin\Debug\net6.0\RegexExpression.deps.json
+E:\.net projects\RegexExpression\bin\Debug\net6.0\RegexExpression.runtimeconfig.json
+E:\.net projects\RegexExpression\bin\Debug\net6.0\RegexExpression.dll
+E:\.net projects\RegexExpression\bin\Debug\net6.0\RegexExpression.pdb
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.AssemblyInfoInputs.cache
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.AssemblyInfo.cs
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.csproj.CoreCompileInputs.cache
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.sourcelink.json
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.dll
+E:\.net projects\RegexExpression\obj\Debug\net6.0\refint\RegexExpression.dll
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.pdb
+E:\.net projects\RegexExpression\obj\Debug\net6.0\RegexExpression.genruntimeconfig.cache
+E:\.net projects\RegexExpression\obj\Debug\net6.0\ref\RegexExpression.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RegexExpression": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

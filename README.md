@@ -101,5 +101,9 @@ Got familiar with Lambda Expression
 1. Linear Search
 2. Binary Search
 
+17/12/25
+# Learned Regular Expression
+1. Crated Email Validator Console App
+2. Created Phone Validator Console App
 
 

@@ -1,0 +1,5 @@
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplemetaion.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplemetaion.AssemblyInfoInputs.cache
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplemetaion.AssemblyInfo.cs
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplemetaion.csproj.CoreCompileInputs.cache
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplemetaion.sourcelink.json

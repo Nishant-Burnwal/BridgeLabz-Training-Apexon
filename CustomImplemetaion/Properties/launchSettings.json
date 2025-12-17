@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomImplemetaion": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

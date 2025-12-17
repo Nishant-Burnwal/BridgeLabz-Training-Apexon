@@ -1,0 +1,15 @@
+E:\.net projects\CustomImplemetaion\bin\Debug\net6.0\CustomImplementation.exe
+E:\.net projects\CustomImplemetaion\bin\Debug\net6.0\CustomImplementation.deps.json
+E:\.net projects\CustomImplemetaion\bin\Debug\net6.0\CustomImplementation.runtimeconfig.json
+E:\.net projects\CustomImplemetaion\bin\Debug\net6.0\CustomImplementation.dll
+E:\.net projects\CustomImplemetaion\bin\Debug\net6.0\CustomImplementation.pdb
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.AssemblyInfoInputs.cache
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.AssemblyInfo.cs
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.csproj.CoreCompileInputs.cache
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.sourcelink.json
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.dll
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\refint\CustomImplementation.dll
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.pdb
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\CustomImplementation.genruntimeconfig.cache
+E:\.net projects\CustomImplemetaion\obj\Debug\net6.0\ref\CustomImplementation.dll

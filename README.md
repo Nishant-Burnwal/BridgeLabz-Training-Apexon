@@ -84,4 +84,22 @@ Got familiar with Lambda Expression
 11. Join
 12. ToList(), ToArray()
 
+08-12/12/25
+# Learned Cusotm Implemenatation
+1. Singly Linked List
+2. Stack
+3. Queue
+
+12-15/12/25
+# Learn Sorting Techniques
+1. Bubble Sort
+2. Inertion Sort
+3. Merge Sort
+
+15-16/12/25
+# Learned Searching Techniques
+1. Linear Search
+2. Binary Search
+
+
 
